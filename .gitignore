@@ -1,0 +1,8 @@
+bin/
+build/
+moc_*.cpp
+ui_*.h
+Makefile*
+*.user
+*.o
+.DS_Store
